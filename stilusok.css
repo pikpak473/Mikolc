@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: Verdana,Tahoma, sans-serif;
+    font-size: 100%;
+    background-color: gray;
+}
+   
+
+
+p {
+    font-size: medium;
+    margin: 0 auto;
+    padding: 10px;
+    width: 400px;
+    color: blue;
+    background-image: url("miskolc-varoskep.jpg");
+}
